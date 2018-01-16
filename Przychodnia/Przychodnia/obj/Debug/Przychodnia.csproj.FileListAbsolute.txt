@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
